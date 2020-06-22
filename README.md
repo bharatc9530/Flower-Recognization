@@ -1,7 +1,7 @@
 # Flower-Recognization
 
-# All Data Stored in [Flowers Floder](flowers).
-# All csv files of training and testing data, model is stored with its weight in folder data_files.
+# All Data Stored in [Flowers Folder](flowers).
+# All csv files of training and testing data, model is stored with its weight in folder [Data Files](data_files).
 
 ### Use CNN architecture I got an Accuracy Of 81% on training Data and 79% on testing Data
 
