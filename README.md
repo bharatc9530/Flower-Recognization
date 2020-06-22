@@ -38,6 +38,7 @@ accuracy function of training and validation data.
 
 #### Model Architecture Visualization
 using netron library to visualize neural network architecture in detail.
+for example : view [mobilenet structure](https://lutzroeder.github.io/netron/?url=https%3A%2F%2Fraw.githubusercontent.com%2Faio-libs%2Faiohttp-demos%2Fmaster%2Fdemos%2Fimagetagger%2Ftests%2Fdata%2Fmobilenet.h5)
 
 #### Model saving 
 saving model architecture as well as model weights. it is stored in data_files along with csv file of detail about training and testing.
