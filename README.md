@@ -1,5 +1,5 @@
 # Flower-Recognization
-[README](Flower-Recognization/blob/master/data_files)
+[README](bharatc9530/Flower-Recognization/data_files)
 # All Data Stored in flowers folder.
 # All csv files of training and testing data, model is stored with its weight in folder data_files.
 
